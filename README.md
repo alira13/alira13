@@ -4,27 +4,23 @@
 
 приложение для создания списков с использованием голосового помощника Алиса.
 
- #Dagger  #RecyclerView
+ #Dagger  #RecyclerView #Git #Clean Architecture
 
 [VacancyCatcher](https://github.com/AlexKutsyk/practicum-android-diploma/tree/develop) 
 
 приложение для поиска вакансий (командная разработка, git flow). Приложение позволяет искать вакансии по запросу, искать похожие вакансии, фильтровать по отрасли и региону, сохранять вакансии в избранное.
 
-#Koin  #RecyclerView
+#Koin  #RecyclerView #Git #GitFlow #Clean Architecture
 
 [PlaylistMaker](https://github.com/alira13/playlist-maker) 
 
 приложение для создания плейлистов, с возможностью прослушивания музыки, позволяет сохранять треки в избранное, создавать и редактировать плейлисты, устанавливать изображения на обложки альбомов из storage.
 
-#Koin  #RecyclerView
+#Koin  #RecyclerView #Git #Clean Architecture
 
 ### Технологии:
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android&logoColor=097CDB)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
-![Koin](https://img.shields.io/badge/-Koin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
-![Dagger2](https://img.shields.io/badge/-Dagger2-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
-![RecyclerView](https://img.shields.io/badge/-RecyclerView-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
-![CleanArch](https://img.shields.io/badge/-CleanArch-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
 
 ### Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/KseniaAB)
