@@ -4,20 +4,21 @@
 
 приложение для создания списков с использованием голосового помощника Алиса.
 
-![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android&logoColor=097CDB)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
+ #Dagger  #RecyclerView
 
 [VacancyCatcher](https://github.com/AlexKutsyk/practicum-android-diploma/tree/develop) 
 
 приложение для поиска вакансий (командная разработка, git flow). Приложение позволяет искать вакансии по запросу, искать похожие вакансии, фильтровать по отрасли и региону, сохранять вакансии в избранное.
 
-![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android&logoColor=097CDB)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
+#Koin  #RecyclerView
 
 [PlaylistMaker](https://github.com/alira13/playlist-maker) 
 
 приложение для создания плейлистов, с возможностью прослушивания музыки, позволяет сохранять треки в избранное, создавать и редактировать плейлисты, устанавливать изображения на обложки альбомов из storage.
 
+#Koin  #RecyclerView
+
+### Технологии:
 ![Android](https://img.shields.io/badge/-Android-090909?style=for-the-badge&logo=android&logoColor=097CDB)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB)
 
