@@ -6,7 +6,7 @@
 
  #Dagger  #RecyclerView #Git #CleanArchitecture
 
-[VacancyCatcher](https://github.com/AlexKutsyk/practicum-android-diploma/tree/develop) 
+[VacancyCatcher](https://github.com/alira13/practicum-android-diploma) 
 
 приложение для поиска вакансий (командная разработка, git flow). Приложение позволяет искать вакансии по запросу, искать похожие вакансии, фильтровать по отрасли и региону, сохранять вакансии в избранное.
 
