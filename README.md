@@ -1,5 +1,11 @@
 ### Проекты:
 
+[CatFact](https://github.com/alira13/CatFact)
+
+Приложение для отображения случайных фактов о котиках (тестовое задание)
+
+ #Koin  #JetpackCompose #MVVM #StateFlow #Retrofit #CleanArchitecture
+ 
 [InList](https://github.com/alira13/in-list) 
 
 приложение для создания списков с использованием голосового помощника Алиса.
